@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioSaludo\ServicioSaludo\bin\ServicioSaludo.dll.config
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioSaludo\ServicioSaludo\bin\ServicioSaludo.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioSaludo\ServicioSaludo\bin\ServicioSaludo.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioSaludo\ServicioSaludo\obj\Debug\ServicioSaludo.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioSaludo\ServicioSaludo\obj\Debug\ServicioSaludo.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioSaludo\ServicioSaludo\obj\Debug\ServicioSaludo.pdb
